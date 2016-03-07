@@ -1,0 +1,716 @@
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_scaffolding\.scss;
+  }
+
+  line {
+    font-family: \000031;
+  }
+}
+
+#copyright {
+  margin: 20px 0 10px;
+  text-align: center;
+  color: #aaa;
+  text-shadow: 0 1px 0 #fff;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_scaffolding\.scss;
+  }
+
+  line {
+    font-family: \000037;
+  }
+}
+
+.notifyBadge {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  background: #EF4E3A;
+  border-radius: 10px;
+  width: 10px;
+  height: 10px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_scaffolding\.scss;
+  }
+
+  line {
+    font-family: \0000317;
+  }
+}
+
+.badge.messagesCount {
+  border-radius: 20px;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  padding: 0;
+  text-align: center;
+  line-height: 20px;
+  font-size: 12px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_scaffolding\.scss;
+  }
+
+  line {
+    font-family: \0000329;
+  }
+}
+
+.bold {
+  font-weight: bold;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_scaffolding\.scss;
+  }
+
+  line {
+    font-family: \0000333;
+  }
+}
+
+.pane {
+  background-color: #f5f5f5;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_scaffolding\.scss;
+  }
+
+  line {
+    font-family: \0000337;
+  }
+}
+
+.cnode {
+  color: #80bd01;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_scaffolding\.scss;
+  }
+
+  line {
+    font-family: \0000341;
+  }
+}
+
+.cnode-bg {
+  background-color: #80bd01;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_bar\.scss;
+  }
+
+  line {
+    font-family: \000031;
+  }
+}
+
+.bar.bar-light .title.copy-tit {
+  font-size: 13px;
+  font-weight: normal;
+  color: #888;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_items\.scss;
+  }
+
+  line {
+    font-family: \000031;
+  }
+}
+
+.item {
+  left: 0;
+  right: 0;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_items\.scss;
+  }
+
+  line {
+    font-family: \000035;
+  }
+}
+
+.item-divider {
+  color: #555;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_items\.scss;
+  }
+
+  line {
+    font-family: \0000310;
+  }
+}
+
+.item-gap {
+  border: 0 none;
+  min-height: 0px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_items\.scss;
+  }
+
+  line {
+    font-family: \0000314;
+  }
+}
+
+.item-loading {
+  text-align: center;
+  color: #aaa;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_items\.scss;
+  }
+
+  line {
+    font-family: \0000319;
+  }
+}
+
+.saverMode .item-avatar {
+  padding-left: 14px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_items\.scss;
+  }
+
+  line {
+    font-family: \0000321;
+  }
+}
+
+.saverMode .item-avatar.item-complex {
+  padding-left: 0;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_items\.scss;
+  }
+
+  line {
+    font-family: \0000325;
+  }
+}
+
+.saverMode .item-avatar > img:first-child {
+  -webkit-transform: translate3d(-2000px, -2000px, 0px);
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_items\.scss;
+  }
+
+  line {
+    font-family: \0000329;
+  }
+}
+
+.saverMode .item-avatar .item-content {
+  padding-left: 14px;
+  padding-right: 16px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_items\.scss;
+  }
+
+  line {
+    font-family: \0000333;
+  }
+}
+
+.saverMode .item-avatar .item-content > img:first-child {
+  -webkit-transform: translate3d(-2000px, -2000px, 0px);
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_markdown\.scss;
+  }
+
+  line {
+    font-family: \000032;
+  }
+}
+
+.markdown-text a {
+  color: #778087;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_markdown\.scss;
+  }
+
+  line {
+    font-family: \000035;
+  }
+}
+
+.markdown-text ul {
+  list-style-type: disc;
+  margin-bottom: 5px;
+  margin-left: 15px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/modules\/_markdown\.scss;
+  }
+
+  line {
+    font-family: \000039;
+  }
+}
+
+.markdown-text ul ul {
+  list-style-type: circle;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_header\.scss;
+  }
+
+  line {
+    font-family: \000031;
+  }
+}
+
+a {
+  color: #08c;
+  text-decoration: none;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_header\.scss;
+  }
+
+  line {
+    font-family: \000035;
+  }
+}
+
+#logo {
+  width: 128px;
+  height: 30px;
+  margin-left: 10px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_header\.scss;
+  }
+
+  line {
+    font-family: \0000310;
+  }
+}
+
+#devTag {
+  position: relative;
+  font-size: 14px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topics\.scss;
+  }
+
+  line {
+    font-family: \000032;
+  }
+}
+
+.topics .item-content {
+  padding: 14px 16px 18px 72px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topics\.scss;
+  }
+
+  line {
+    font-family: \000035;
+  }
+}
+
+.topics .item-content > img:not(:first-child) {
+  -webkit-transform: translate3d(-2000px, -2000px, 0px);
+  position: absolute;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topics\.scss;
+  }
+
+  line {
+    font-family: \0000313;
+  }
+}
+
+.topics .activated .tab:not(.hl) {
+  background-color: #aeaeae;
+  color: #fff;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topics\.scss;
+  }
+
+  line {
+    font-family: \0000319;
+  }
+}
+
+.topics .ago,
+.topics .summary {
+  font-size: 12px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topics\.scss;
+  }
+
+  line {
+    font-family: \0000323;
+  }
+}
+
+.topics .tab {
+  background-color: #E5E5E5;
+  color: #999;
+  border-radius: 2px;
+  padding: 2px 4px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topics\.scss;
+  }
+
+  line {
+    font-family: \0000329;
+  }
+}
+
+.topics .hl {
+  background-color: #80bd01;
+  color: #fff;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topics\.scss;
+  }
+
+  line {
+    font-family: \0000335;
+  }
+}
+
+.topic-content img {
+  max-width: 100%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \000032;
+  }
+}
+
+.topic .title {
+  margin: 0;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \000035;
+  }
+}
+
+.topic .summary {
+  margin: 8px 0;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \000038;
+  }
+}
+
+.topic .avatar {
+  width: 16px;
+  height: 16px;
+  border-radius: 8px;
+  vertical-align: middle;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000316;
+  }
+}
+
+.replies .item {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  white-space: normal;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000322;
+  }
+}
+
+.replies .reply-content img {
+  max-width: 100%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000325;
+  }
+}
+
+.replies .reply-content p {
+  overflow: visible !important;
+  white-space: normal !important;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000332;
+  }
+}
+
+.topic-create .topic-tabs {
+  position: relative;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 0px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000340;
+  }
+}
+
+.reply-new input {
+  background: transparent;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000346;
+  }
+}
+
+.assets-content {
+  line-height: 2em;
+  margin-bottom: 13px;
+  overflow: hidden;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000351;
+  }
+}
+
+.assets-inner {
+  clear: both;
+  background: #d4d4d4;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000355;
+  }
+}
+
+.assets-inner.assets-inner-img {
+  text-align: center;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000357;
+  }
+}
+
+.assets-inner.assets-inner-img > img {
+  display: inline-block;
+  float: left;
+  clear: both;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000363;
+  }
+}
+
+.assets-inner.assets-inner-text {
+  background: transparent;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000367;
+  }
+}
+
+.assets-inner.assets-inner-text > p {
+  line-height: 1.6em;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000371;
+  }
+}
+
+.assets-inner.assets-inner-video {
+  text-align: center;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_topic\.scss;
+  }
+
+  line {
+    font-family: \0000374;
+  }
+}
+
+.assets-inner .assets-dec {
+  clear: both;
+  background: #323436;
+  font-size: 14px;
+  padding: 8px;
+  text-align: left;
+  color: #fff;
+  line-height: 1.6em;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/\/Users\/missile\/work\/bs\/cnodejs-ionic\/app\/css\/app\/_user\.scss;
+  }
+
+  line {
+    font-family: \000032;
+  }
+}
+
+.user .item-content {
+  padding-right: 16px;
+}
